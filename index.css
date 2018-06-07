@@ -1,0 +1,85 @@
+*{
+	margin:0;
+	padding:0;
+}
+.phone{
+	width:320px;
+	height:600px;
+	border:2px  black  solid;
+	margin:30px auto;
+	border-radius: 50px;
+
+}
+.top{
+	width:240px;
+	height:40px;
+	background:white;
+	margin:7px auto;
+}
+.screen{
+	width:295px;
+	height:460px;
+	background:url(screen.jpg);
+	background-size: 100%;
+	margin:16px auto;
+	border: 1px #000 solid;
+}
+.home{
+	width:60px;
+	height:60px;
+	border-radius: 30px;
+	border:2px #000 solid;
+	margin:-10px auto;
+}
+.listen{
+	width:150px;
+	height:10px;
+	border:2px #000 solid;
+	border-radius: 13px;
+	background-color: black;
+	margin-left: 10px;
+	float: left;
+	margin-top: 13px;
+}
+.led{
+	width:8px;
+	height:8px;
+	border:2px #000 solid;
+	border-radius: 13px;
+	margin-left: 15px;
+	float: left;
+	margin-top: 16px;
+}
+.camera{
+	width:8px;
+	height:8px;
+	border:2px #000 solid;
+	border-radius: 13px;
+	margin-left: 26px;
+	float: left;
+	margin-top: 16px;
+}
+.power{
+	width:3px;
+	height:38px;
+	background:#FFC107;
+	border: 1px #000 solid;
+	margin-top: -490px;
+	margin-left: 320px;
+}
+.vol1{
+	width:3px;
+	height:48px;
+	background:#FFC107;
+	border: 1px #000 solid;
+	margin-top: 15px;
+	margin-left: 320px;
+}
+.vol2{
+	width:3px;
+	height:48px;
+	background:#FFC107;
+	border: 1px #000 solid;
+	margin-top: 6px;
+	margin-left: 320px;
+}
